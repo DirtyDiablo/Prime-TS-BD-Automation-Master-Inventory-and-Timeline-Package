@@ -1,0 +1,53 @@
+diff --git a/Inventory/Drive_Audit.json b/Inventory/Drive_Audit.json
+deleted file mode 100644
+index dce6f3fd057d58e93df0d01056f0c2337a3284d1..0000000000000000000000000000000000000000
+--- a/Inventory/Drive_Audit.json
++++ /dev/null
+@@ -1,572 +0,0 @@
+-[ ... removed large audit json content ... ]
+
+diff --git a/Inventory/Readme b/Inventory/Readme
+deleted file mode 100644
+index e69de29..0000000
+--- a/Inventory/Readme
++++ /dev/null
+
+diff --git a/Master_Inventory.json b/Master_Inventory.json
+new file mode 100644
+index 0000000..b8e9f07
+--- /dev/null
++++ b/Master_Inventory.json
+@@
++{
++  "artifacts": []
++}
+
+diff --git a/Scripts/audit-drive.ps1 b/Scripts/scraper-script-audit-drive.ps1
+similarity index 100%
+rename from Scripts/audit-drive.ps1
+rename to Scripts/scraper-script-audit-drive.ps1
+
+diff --git a/Scripts/organize-artifacts.ps1 b/Scripts/organize-artifacts.ps1
+new file mode 100644
+index 0000000..b8e9f07
+--- /dev/null
++++ b/Scripts/organize-artifacts.ps1
+@@
++param()
++
++$auditPath = "Drive_Audit.json"
++$logPath = "organize-log.txt"
++$folders = @("scraper","mapping","orgchart","playbook","scoring")
++
++# Ensure engine folders exist
++foreach ($f in $folders) {
++    if (-not (Test-Path $f)) {
++        New-Item -ItemType Directory -Path $f | Out-Null
++    }
++}
++
++# Sample file renaming logic (extend as needed)
++if (Test-Path $auditPath) {
++    Move-Item $auditPath "scraper\scraper__drive-audit.json"
++    Add-Content $logPath "Moved $auditPath -> scraper\scraper__drive-audit.json"
++}
