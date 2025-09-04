@@ -7,54 +7,22 @@
   },
   "steps": [
     {
-      "name": "Reset Master State",
+      "name": "Unified Full Orchestration",
       "actions": [
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Agent Prompts" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Trackers & Sheets" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External References" },
-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External Templates" },
-
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Top20_Scraper_Template.xlsx", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper\\Top20_Scraper_Template.xlsx" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\ScraperWorkflow.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper\\ScraperWorkflow.json" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\scripts\\audit-drive.ps1", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scripts\\audit-drive.ps1" },
-
-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Prime Ngc Past Performance.pdf", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Credibility Docs\\Prime Ngc Past Performance.pdf" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Contract_Ladder.csv", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\mapping\\Contract_Ladder.csv" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\mapping-model.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\mapping\\mapping-model.json" },
-
-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Clearance Overview_.docx", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\References\\Clearance Overview_.docx" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\org-chart-layout.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\orgchart\\org-chart-layout.json" },
-
-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Sales Prospecting Playbook.pdf", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales Prospecting Playbook.pdf" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\playbook-agent-prompts.md", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\playbook\\playbook-agent-prompts.md" },
-
-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\ScoringModel.xlsx", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\ScoringModel.xlsx" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Proposed Architecture for Prime TS BD Intelligence Automation.pdf", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning\\Proposed Architecture for Prime TS BD Intelligence Automation.pdf" },
-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Master Timeline.xlsx", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\inventory\\Master_Timeline.xlsx" },
-
-        {
-          "type": "generate_markdown_link",
-          "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper\\Competitor_Job_Board_URLs.md",
-          "link": "https://drive.google.com/file/d/1IvLbMxiS3HoXyE0e3UckmKM7kD8XfGHc",
-          "title": "Competitor Job Board URLs – Cleared Staffing Firms (Google Doc)"
-        },
-
+        { "type": "run_script", "script": "fix-drive-structure.ps1", "args": [] },
         { "type": "run_script", "script": "scraper-script-audit-drive.ps1", "args": [] },
-
-        { "type": "generate_inventory", "source_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\inventory\\Master_Inventory.json" },
-
-        { "type": "run", "command": "cd C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch" }
+        { "type": "run_script", "script": "organize-artifacts.ps1", "args": [] },
+        { "type": "generate_inventory", "source_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Master_Inventory.json" },
+        { "type": "run", "command": "cd C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > FullMasterUpdate.patch" },
+        { "type": "copy", "source": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Drive_Audit.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\KnowledgeBase_Snapshot.json" },
+        { "type": "convert_json_to_csv", "source": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Master_Inventory.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Master_Inventory.csv" },
+        { "type": "add_gitkeep_if_missing", "folders": ["mapping", "orgchart", "playbook", "scoring"] },
+        { "type": "sync_repo", "message": "Complete Unified Orchestration Run – all artifacts organized and synced." }
       ],
       "validation": [
-        { "condition": "exists", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper" },
+        { "condition": "exists", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)" },
         { "condition": "exists", "path": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper" },
-        { "condition": "file_count", "path": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper", "min_count": 2 }
+        { "condition": "file_count", "path": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper", "min_count": 5 }
       ]
     }
   ]

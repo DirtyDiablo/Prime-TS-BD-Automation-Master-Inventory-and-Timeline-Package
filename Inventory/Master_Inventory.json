@@ -1,119 +1,374 @@
 [
   {
-    "artifact_name": "Drive_Snapshot.txt",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Drive_Snapshot.txt",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External References",
+    "Name": "📁 External References",
+    "Length": null,
+    "LastWriteTime": "2025-09-04T15:08:54.027-04:00"
   },
   {
-    "artifact_name": "fix-drive-structure.ps1",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\fix-drive-structure.ps1",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External Templates",
+    "Name": "📁 External Templates",
+    "Length": null,
+    "LastWriteTime": "2025-09-04T15:08:54.048-04:00"
   },
   {
-    "artifact_name": "Competitor_Job_Board_URLs.xlsx",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Competitor_Job_Board_URLs.xlsx",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📊 Trackers & Sheets",
+    "Name": "📊 Trackers & Sheets",
+    "Length": null,
+    "LastWriteTime": "2025-09-04T15:08:54.006-04:00"
   },
   {
-    "artifact_name": "Coverage_Hubs.csv",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Coverage_Hubs.csv",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🔧 Architecture & Planning",
+    "Name": "🔧 Architecture & Planning",
+    "Length": null,
+    "LastWriteTime": "2025-09-04T15:08:53.946-04:00"
   },
   {
-    "artifact_name": "ScraperEngine_Config.json",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\ScraperEngine_Config.json",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🤖 Agent Prompts",
+    "Name": "🤖 Agent Prompts",
+    "Length": null,
+    "LastWriteTime": "2025-09-04T15:08:53.987-04:00"
   },
   {
-    "artifact_name": "Jobs_Records_Full.xlsx",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports\\Jobs_Records_Full.xlsx",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Agent Prompts",
+    "Name": "Agent Prompts",
+    "Length": null,
+    "LastWriteTime": "2025-09-03T21:51:12.994-04:00"
   },
   {
-    "artifact_name": "Bullhorn_Contact_Extraction_Plan.docx",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs\\Bullhorn_Contact_Extraction_Plan.docx",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning",
+    "Name": "Architecture & Planning",
+    "Length": null,
+    "LastWriteTime": "2025-09-03T21:49:16.244-04:00"
   },
   {
-    "artifact_name": "Engine_Placements_All_Final.csv",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)\\Engine_Placements_All_Final.csv",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Archive",
+    "Name": "Archive",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.811-04:00"
   },
   {
-    "artifact_name": "GBSD_Notebook.pdf",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\GBSD_Notebook.pdf",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper",
+    "Name": "Engine 1 – Scraper",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.417-04:00"
   },
   {
-    "artifact_name": "MStaff_LinkedInActivity.pdf",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\MStaff_LinkedInActivity.pdf",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping",
+    "Name": "Engine 2 – Program Mapping",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.496-04:00"
   },
   {
-    "artifact_name": "Sales_Prospecting_Playbook.pdf",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales_Prospecting_Playbook.pdf",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart",
+    "Name": "Engine 3 – Org Chart",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.666-04:00"
   },
   {
-    "artifact_name": "Outreach_Scripts_Collection.docx",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides\\Outreach_Scripts_Collection.docx",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook",
+    "Name": "Engine 4 – Playbook",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:52.122-04:00"
   },
   {
-    "artifact_name": "BD_Priority_Scoring_Model.xlsx",
-    "engine": "",
-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\BD_Priority_Scoring_Model.xlsx",
-    "integration_status": "Live",
-    "version": "1.0",
-    "purpose": "Auto-generated",
-    "integration_usage": "Sync"
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring",
+    "Name": "Engine 5 – Scoring",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:54.49-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External References",
+    "Name": "External References",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.774-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External Templates",
+    "Name": "External Templates",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.786-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Repos",
+    "Name": "Repos",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.797-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Trackers & Sheets",
+    "Name": "Trackers & Sheets",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.764-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted",
+    "Name": "Unsorted",
+    "Length": null,
+    "LastWriteTime": "2025-09-04T15:08:54.443-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations",
+    "Name": "Configurations",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T10:05:50.23-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports",
+    "Name": "Data Exports",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T10:05:50.236-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\References",
+    "Name": "References",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:45.957-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Setup Guides",
+    "Name": "Setup Guides",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.415-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Test Data",
+    "Name": "Test Data",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:46.497-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Workflows & Scripts",
+    "Name": "Workflows & Scripts",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:44.955-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Competitor_Job_Board_URLs.xlsx",
+    "Name": "Competitor_Job_Board_URLs.xlsx",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.224-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Coverage_Hubs.csv",
+    "Name": "Coverage_Hubs.csv",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.229-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\ScraperEngine_Config.json",
+    "Name": "ScraperEngine_Config.json",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T09:59:52.855-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports\\Jobs_Records_Full.xlsx",
+    "Name": "Jobs_Records_Full.xlsx",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.235-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Competitive Intel",
+    "Name": "Competitive Intel",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:48.301-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Credibility Docs",
+    "Name": "Credibility Docs",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:47.841-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data",
+    "Name": "Data",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:48.746-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)",
+    "Name": "Data (Placements)",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T10:05:50.242-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs",
+    "Name": "Strategy Docs",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:53.023-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs\\Bullhorn_Contact_Extraction_Plan.docx",
+    "Name": "Bullhorn_Contact_Extraction_Plan.docx",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T09:59:53.022-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)\\Engine_Placements_All_Final.csv",
+    "Name": "Engine_Placements_All_Final.csv",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.241-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Data (Placements)",
+    "Name": "Data (Placements)",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:50.647-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Data Processing Scripts",
+    "Name": "Data Processing Scripts",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:52.665-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Data Scripts",
+    "Name": "Data Scripts",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:51.611-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program Intel",
+    "Name": "Program Intel",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:49.762-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel",
+    "Name": "Program-Specific Intel",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T10:05:50.249-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\References",
+    "Name": "References",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:51.128-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Strategy & Design",
+    "Name": "Strategy & Design",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:50.17-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\GBSD_Notebook.pdf",
+    "Name": "GBSD_Notebook.pdf",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T09:59:53.029-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\MStaff_LinkedInActivity.pdf",
+    "Name": "MStaff_LinkedInActivity.pdf",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.248-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Agent Outputs",
+    "Name": "Agent Outputs",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:53.576-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook",
+    "Name": "Master Playbook",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T09:59:53.04-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides",
+    "Name": "Strategy Guides",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T10:05:50.257-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Templates",
+    "Name": "Templates",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:54.049-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales_Prospecting_Playbook.pdf",
+    "Name": "Sales_Prospecting_Playbook.pdf",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T09:59:53.039-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides\\Outreach_Scripts_Collection.docx",
+    "Name": "Outreach_Scripts_Collection.docx",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.256-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs",
+    "Name": "Design & Specs",
+    "Length": null,
+    "LastWriteTime": "2025-09-02T10:05:50.264-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Reference Reports",
+    "Name": "Reference Reports",
+    "Length": null,
+    "LastWriteTime": "2025-08-29T10:55:56.014-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\BD_Priority_Scoring_Model.xlsx",
+    "Name": "BD_Priority_Scoring_Model.xlsx",
+    "Length": 0,
+    "LastWriteTime": "2025-09-02T10:05:50.263-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Contact Mapping & Outreach Kit (Aug 28–31, 2025 Events).pdf",
+    "Name": "Contact Mapping & Outreach Kit (Aug 28–31, 2025 Events).pdf",
+    "Length": 144184,
+    "LastWriteTime": "2025-08-28T14:49:14.575-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Contact Mapping Strategy – Aug 28–31, 2025 (OPML Outline).pdf",
+    "Name": "Contact Mapping Strategy – Aug 28–31, 2025 (OPML Outline).pdf",
+    "Length": 55756,
+    "LastWriteTime": "2025-09-04T09:55:10.103-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Drive_Snapshot.txt",
+    "Name": "Drive_Snapshot.txt",
+    "Length": 1716,
+    "LastWriteTime": "2025-09-03T17:02:45.89-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\fix-drive-structure.ps1",
+    "Name": "fix-drive-structure.ps1",
+    "Length": 2764,
+    "LastWriteTime": "2025-09-02T16:58:15.791-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Master Inventory (JSON).pdf",
+    "Name": "Master Inventory (JSON).pdf",
+    "Length": 142241,
+    "LastWriteTime": "2025-08-27T15:35:04.447-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Master Program Index Prompt.pdf",
+    "Name": "Master Program Index Prompt.pdf",
+    "Length": 52124,
+    "LastWriteTime": "2025-09-04T10:37:17.697-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Northrop_Sentinel_Outreach_Contacts.xlsx",
+    "Name": "Northrop_Sentinel_Outreach_Contacts.xlsx",
+    "Length": 15414,
+    "LastWriteTime": "2025-09-04T09:45:41.818-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Prime TS BD Master State – Drive Audit & Synchronization.pdf",
+    "Name": "Prime TS BD Master State – Drive Audit & Synchronization.pdf",
+    "Length": 40513,
+    "LastWriteTime": "2025-09-02T16:38:11.792-04:00"
+  },
+  {
+    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Scraper Engine (Target Identification) (1).pdf",
+    "Name": "Scraper Engine (Target Identification) (1).pdf",
+    "Length": 100498,
+    "LastWriteTime": "2025-08-27T15:33:30.036-04:00"
   }
 ]

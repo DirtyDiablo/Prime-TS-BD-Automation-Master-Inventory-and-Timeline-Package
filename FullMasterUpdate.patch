@@ -1,0 +1,821 @@
+diff --git a/Inventory/Master_Inventory.json b/Inventory/Master_Inventory.json
+index b5b8776..845d59c 100644
+--- a/Inventory/Master_Inventory.json
++++ b/Inventory/Master_Inventory.json
+@@ -1,119 +1,374 @@
+ [
+   {
+-    "artifact_name": "Drive_Snapshot.txt",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Drive_Snapshot.txt",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "fix-drive-structure.ps1",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\fix-drive-structure.ps1",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Competitor_Job_Board_URLs.xlsx",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Competitor_Job_Board_URLs.xlsx",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Coverage_Hubs.csv",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Coverage_Hubs.csv",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "ScraperEngine_Config.json",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\ScraperEngine_Config.json",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Jobs_Records_Full.xlsx",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports\\Jobs_Records_Full.xlsx",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Bullhorn_Contact_Extraction_Plan.docx",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs\\Bullhorn_Contact_Extraction_Plan.docx",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Engine_Placements_All_Final.csv",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)\\Engine_Placements_All_Final.csv",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "GBSD_Notebook.pdf",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\GBSD_Notebook.pdf",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "MStaff_LinkedInActivity.pdf",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\MStaff_LinkedInActivity.pdf",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Sales_Prospecting_Playbook.pdf",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales_Prospecting_Playbook.pdf",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "Outreach_Scripts_Collection.docx",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides\\Outreach_Scripts_Collection.docx",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
+-  },
+-  {
+-    "artifact_name": "BD_Priority_Scoring_Model.xlsx",
+-    "engine": "",
+-    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\BD_Priority_Scoring_Model.xlsx",
+-    "integration_status": "Live",
+-    "version": "1.0",
+-    "purpose": "Auto-generated",
+-    "integration_usage": "Sync"
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External References",
++    "Name": "📁 External References",
++    "Length": null,
++    "LastWriteTime": "2025-09-04T15:08:54.027-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External Templates",
++    "Name": "📁 External Templates",
++    "Length": null,
++    "LastWriteTime": "2025-09-04T15:08:54.048-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📊 Trackers & Sheets",
++    "Name": "📊 Trackers & Sheets",
++    "Length": null,
++    "LastWriteTime": "2025-09-04T15:08:54.006-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🔧 Architecture & Planning",
++    "Name": "🔧 Architecture & Planning",
++    "Length": null,
++    "LastWriteTime": "2025-09-04T15:08:53.946-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🤖 Agent Prompts",
++    "Name": "🤖 Agent Prompts",
++    "Length": null,
++    "LastWriteTime": "2025-09-04T15:08:53.987-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Agent Prompts",
++    "Name": "Agent Prompts",
++    "Length": null,
++    "LastWriteTime": "2025-09-03T21:51:12.994-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning",
++    "Name": "Architecture & Planning",
++    "Length": null,
++    "LastWriteTime": "2025-09-03T21:49:16.244-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Archive",
++    "Name": "Archive",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.811-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper",
++    "Name": "Engine 1 – Scraper",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.417-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping",
++    "Name": "Engine 2 – Program Mapping",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.496-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart",
++    "Name": "Engine 3 – Org Chart",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.666-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook",
++    "Name": "Engine 4 – Playbook",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:52.122-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring",
++    "Name": "Engine 5 – Scoring",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:54.49-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External References",
++    "Name": "External References",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.774-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External Templates",
++    "Name": "External Templates",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.786-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Repos",
++    "Name": "Repos",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.797-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Trackers & Sheets",
++    "Name": "Trackers & Sheets",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.764-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted",
++    "Name": "Unsorted",
++    "Length": null,
++    "LastWriteTime": "2025-09-04T15:08:54.443-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations",
++    "Name": "Configurations",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T10:05:50.23-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports",
++    "Name": "Data Exports",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T10:05:50.236-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\References",
++    "Name": "References",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:45.957-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Setup Guides",
++    "Name": "Setup Guides",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.415-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Test Data",
++    "Name": "Test Data",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:46.497-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Workflows & Scripts",
++    "Name": "Workflows & Scripts",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:44.955-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Competitor_Job_Board_URLs.xlsx",
++    "Name": "Competitor_Job_Board_URLs.xlsx",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.224-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Coverage_Hubs.csv",
++    "Name": "Coverage_Hubs.csv",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.229-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\ScraperEngine_Config.json",
++    "Name": "ScraperEngine_Config.json",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T09:59:52.855-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports\\Jobs_Records_Full.xlsx",
++    "Name": "Jobs_Records_Full.xlsx",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.235-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Competitive Intel",
++    "Name": "Competitive Intel",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:48.301-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Credibility Docs",
++    "Name": "Credibility Docs",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:47.841-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data",
++    "Name": "Data",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:48.746-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)",
++    "Name": "Data (Placements)",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T10:05:50.242-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs",
++    "Name": "Strategy Docs",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:53.023-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs\\Bullhorn_Contact_Extraction_Plan.docx",
++    "Name": "Bullhorn_Contact_Extraction_Plan.docx",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T09:59:53.022-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)\\Engine_Placements_All_Final.csv",
++    "Name": "Engine_Placements_All_Final.csv",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.241-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Data (Placements)",
++    "Name": "Data (Placements)",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:50.647-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Data Processing Scripts",
++    "Name": "Data Processing Scripts",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:52.665-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Data Scripts",
++    "Name": "Data Scripts",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:51.611-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program Intel",
++    "Name": "Program Intel",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:49.762-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel",
++    "Name": "Program-Specific Intel",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T10:05:50.249-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\References",
++    "Name": "References",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:51.128-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Strategy & Design",
++    "Name": "Strategy & Design",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:50.17-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\GBSD_Notebook.pdf",
++    "Name": "GBSD_Notebook.pdf",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T09:59:53.029-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\MStaff_LinkedInActivity.pdf",
++    "Name": "MStaff_LinkedInActivity.pdf",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.248-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Agent Outputs",
++    "Name": "Agent Outputs",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:53.576-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook",
++    "Name": "Master Playbook",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T09:59:53.04-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides",
++    "Name": "Strategy Guides",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T10:05:50.257-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Templates",
++    "Name": "Templates",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:54.049-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales_Prospecting_Playbook.pdf",
++    "Name": "Sales_Prospecting_Playbook.pdf",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T09:59:53.039-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides\\Outreach_Scripts_Collection.docx",
++    "Name": "Outreach_Scripts_Collection.docx",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.256-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs",
++    "Name": "Design & Specs",
++    "Length": null,
++    "LastWriteTime": "2025-09-02T10:05:50.264-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Reference Reports",
++    "Name": "Reference Reports",
++    "Length": null,
++    "LastWriteTime": "2025-08-29T10:55:56.014-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\BD_Priority_Scoring_Model.xlsx",
++    "Name": "BD_Priority_Scoring_Model.xlsx",
++    "Length": 0,
++    "LastWriteTime": "2025-09-02T10:05:50.263-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Contact Mapping & Outreach Kit (Aug 28–31, 2025 Events).pdf",
++    "Name": "Contact Mapping & Outreach Kit (Aug 28–31, 2025 Events).pdf",
++    "Length": 144184,
++    "LastWriteTime": "2025-08-28T14:49:14.575-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Contact Mapping Strategy – Aug 28–31, 2025 (OPML Outline).pdf",
++    "Name": "Contact Mapping Strategy – Aug 28–31, 2025 (OPML Outline).pdf",
++    "Length": 55756,
++    "LastWriteTime": "2025-09-04T09:55:10.103-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Drive_Snapshot.txt",
++    "Name": "Drive_Snapshot.txt",
++    "Length": 1716,
++    "LastWriteTime": "2025-09-03T17:02:45.89-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\fix-drive-structure.ps1",
++    "Name": "fix-drive-structure.ps1",
++    "Length": 2764,
++    "LastWriteTime": "2025-09-02T16:58:15.791-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Master Inventory (JSON).pdf",
++    "Name": "Master Inventory (JSON).pdf",
++    "Length": 142241,
++    "LastWriteTime": "2025-08-27T15:35:04.447-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Master Program Index Prompt.pdf",
++    "Name": "Master Program Index Prompt.pdf",
++    "Length": 52124,
++    "LastWriteTime": "2025-09-04T10:37:17.697-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Northrop_Sentinel_Outreach_Contacts.xlsx",
++    "Name": "Northrop_Sentinel_Outreach_Contacts.xlsx",
++    "Length": 15414,
++    "LastWriteTime": "2025-09-04T09:45:41.818-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Prime TS BD Master State – Drive Audit & Synchronization.pdf",
++    "Name": "Prime TS BD Master State – Drive Audit & Synchronization.pdf",
++    "Length": 40513,
++    "LastWriteTime": "2025-09-02T16:38:11.792-04:00"
++  },
++  {
++    "FullName": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Unsorted\\Scraper Engine (Target Identification) (1).pdf",
++    "Name": "Scraper Engine (Target Identification) (1).pdf",
++    "Length": 100498,
++    "LastWriteTime": "2025-08-27T15:33:30.036-04:00"
+   }
+ ]
+diff --git a/Scripts/orchestration_plan.json b/Scripts/orchestration_plan.json
+index 817f192..a08efc2 100644
+--- a/Scripts/orchestration_plan.json
++++ b/Scripts/orchestration_plan.json
+@@ -7,54 +7,22 @@
+   },
+   "steps": [
+     {
+-      "name": "Reset Master State",
++      "name": "Unified Full Orchestration",
+       "actions": [
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Agent Prompts" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Trackers & Sheets" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External References" },
+-        { "type": "create_folder", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External Templates" },
+-
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Top20_Scraper_Template.xlsx", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper\\Top20_Scraper_Template.xlsx" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\ScraperWorkflow.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper\\ScraperWorkflow.json" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\scripts\\audit-drive.ps1", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scripts\\audit-drive.ps1" },
+-
+-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Prime Ngc Past Performance.pdf", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Credibility Docs\\Prime Ngc Past Performance.pdf" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Contract_Ladder.csv", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\mapping\\Contract_Ladder.csv" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\mapping-model.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\mapping\\mapping-model.json" },
+-
+-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Clearance Overview_.docx", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\References\\Clearance Overview_.docx" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\org-chart-layout.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\orgchart\\org-chart-layout.json" },
+-
+-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Sales Prospecting Playbook.pdf", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales Prospecting Playbook.pdf" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\playbook-agent-prompts.md", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\playbook\\playbook-agent-prompts.md" },
+-
+-        { "type": "move", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\ScoringModel.xlsx", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\ScoringModel.xlsx" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Proposed Architecture for Prime TS BD Intelligence Automation.pdf", "destination": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning\\Proposed Architecture for Prime TS BD Intelligence Automation.pdf" },
+-        { "type": "copy", "source": "G:\\Shared drives\\PrimeTS Knowledge Base\\Master Timeline.xlsx", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\inventory\\Master_Timeline.xlsx" },
+-
+-        {
+-          "type": "generate_markdown_link",
+-          "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper\\Competitor_Job_Board_URLs.md",
+-          "link": "https://drive.google.com/file/d/1IvLbMxiS3HoXyE0e3UckmKM7kD8XfGHc",
+-          "title": "Competitor Job Board URLs – Cleared Staffing Firms (Google Doc)"
+-        },
+-
++        { "type": "run_script", "script": "fix-drive-structure.ps1", "args": [] },
+         { "type": "run_script", "script": "scraper-script-audit-drive.ps1", "args": [] },
+-
+-        { "type": "generate_inventory", "source_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\inventory\\Master_Inventory.json" },
+-
+-        { "type": "run", "command": "cd C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch" }
++        { "type": "run_script", "script": "organize-artifacts.ps1", "args": [] },
++        { "type": "generate_inventory", "source_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Master_Inventory.json" },
++        { "type": "run", "command": "cd C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > FullMasterUpdate.patch" },
++        { "type": "copy", "source": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Drive_Audit.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\KnowledgeBase_Snapshot.json" },
++        { "type": "convert_json_to_csv", "source": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Master_Inventory.json", "destination": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\Inventory\\Master_Inventory.csv" },
++        { "type": "add_gitkeep_if_missing", "folders": ["mapping", "orgchart", "playbook", "scoring"] },
++        { "type": "sync_repo", "message": "Complete Unified Orchestration Run – all artifacts organized and synced." }
+       ],
+       "validation": [
+-        { "condition": "exists", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper" },
++        { "condition": "exists", "path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)" },
+         { "condition": "exists", "path": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper" },
+-        { "condition": "file_count", "path": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper", "min_count": 2 }
++        { "condition": "file_count", "path": "C:\\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\\scraper", "min_count": 5 }
+       ]
+     }
+   ]
+diff --git a/Scripts/run-orchestrator.ps1 b/Scripts/run-orchestrator.ps1
+index c5268d5..0c95c61 100644
+--- a/Scripts/run-orchestrator.ps1
++++ b/Scripts/run-orchestrator.ps1
+@@ -1,162 +1,123 @@
+ Param(
+-    [ValidateSet("Reset Master State", "Deploy Final Project Artifacts")]
++    [ValidateSet("Reset Master State", "Deploy Final Project Artifacts", "Full Artifact Migration", "Unified Full Orchestration")]
+     [string]$Mode,
+     [switch]$DryRun
+ )
+ 
+-$planPath = Join-Path $PSScriptRoot "orchestration_plan.json"
+-if (-not (Test-Path $planPath)) {
+-    Write-Error "❌ orchestration_plan.json not found"
++# Load orchestration plan
++$plan = Get-Content -Raw -Path ".\scripts\orchestration_plan.json" | ConvertFrom-Json
++
++# Find the step
++$step = $plan.steps | Where-Object { $_.name -eq $Mode }
++if (-not $step) {
++    Write-Host "❌ Step '$Mode' not found in orchestration_plan.json"
+     exit 1
+ }
+ 
+-$plan = Get-Content $planPath -Raw | ConvertFrom-Json
+-$trigger = $plan.steps
+-$logPath = Join-Path $PSScriptRoot "organize-log.txt"
+-Add-Content $logPath "`n--- RUN START $(Get-Date -Format u) | Mode=$Mode | DryRun=$($DryRun.IsPresent) ---`n"
+-
+-foreach ($step in $trigger) {
+-    Write-Host "[STEP] $($step.name)" -ForegroundColor Cyan
+-    Add-Content $logPath "[STEP] $($step.name)"
++Write-Host "[STEP] $($step.name)"
+ 
+-    foreach ($action in $step.actions) {
+-        $type = $action.type
+-        $src = $action.source
+-        $dest = $action.destination
+-        $path = $action.path
+-        $script = $action.script
+-        $args = $action.args
+-        $cmd = $action.command
+-        $link = $action.link
+-        $title = $action.title
+-
+-        if ($DryRun) {
+-            switch ($type) {
+-                "create_folder" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1}" -f $type, $path) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1}" -f $type, $path)
+-                }
+-                "move" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1} -> {2}" -f $type, $src, $dest) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1} -> {2}" -f $type, $src, $dest)
+-                }
+-                "copy" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1} -> {2}" -f $type, $src, $dest) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1} -> {2}" -f $type, $src, $dest)
+-                }
+-                "run_script" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1}" -f $type, $script) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1}" -f $type, $script)
+-                }
+-                "generate_inventory" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1} -> {2}" -f $type, $action.source_path, $action.destination) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1} -> {2}" -f $type, $action.source_path, $action.destination)
+-                }
+-                "generate_markdown_link" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1}" -f $type, $dest) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1}" -f $type, $dest)
+-                }
+-                "run" {
+-                    Write-Host ("    [DRYRUN] Would run {0}: {1}" -f $type, $cmd) -ForegroundColor Yellow
+-                    Add-Content $logPath ("    DRYRUN: {0} {1}" -f $type, $cmd)
+-                }
+-                default {
+-                    Write-Host ("    [DRYRUN] Unhandled type: {0}" -f $type) -ForegroundColor Yellow
+-                }
+-            }
+-            continue
+-        }
++# Run each action
++foreach ($action in $step.actions) {
++    $type = $action.type
++    $src = $action.source
++    $dest = $action.destination
++    $script = $action.script
++    $link = $action.link
++    $title = $action.title
++    $cmd = $action.command
+ 
++    if ($DryRun) {
+         switch ($type) {
+             "create_folder" {
+-                if (-not (Test-Path $path)) {
+-                    New-Item -Path $path -ItemType Directory | Out-Null
+-                    Write-Host "    Created folder: $path"
+-                    Add-Content $logPath "    Created folder: $path"
+-                }
++                Write-Host "    [DRYRUN] Would run ${type}: $dest"
+             }
+             "move" {
+-                Move-Item -Path $src -Destination $dest -Force
+-                Write-Host "    Moved: $src -> $dest"
+-                Add-Content $logPath "    Moved: $src -> $dest"
++                Write-Host "    [DRYRUN] Would run ${type}: $src -> $dest"
+             }
+             "copy" {
+-                Copy-Item -Path $src -Destination $dest -Force
+-                Write-Host "    Copied: $src -> $dest"
+-                Add-Content $logPath "    Copied: $src -> $dest"
++                Write-Host "    [DRYRUN] Would run ${type}: $src -> $dest"
++            }
++            "generate_markdown_link" {
++                Write-Host "    [DRYRUN] Would create markdown link at $dest"
+             }
+             "run_script" {
+-                $fullScript = if ($script -like "*scripts\*") { $script } else { Join-Path $PSScriptRoot $script }
+-                & $fullScript @args
+-                Write-Host "    Ran script: $script"
+-                Add-Content $logPath "    Ran script: $script"
++                Write-Host "    [DRYRUN] Would run ${type}: $script"
+             }
+             "generate_inventory" {
+-                $files = Get-ChildItem -Path $action.source_path -Recurse -File
+-                $inventory = @()
+-                foreach ($f in $files) {
+-                    $record = [PSCustomObject]@{
+-                        artifact_name = $f.Name
+-                        engine = ($f.FullName -split "Engine \\d – ")[1] -split "\\" | Select-Object -First 1
+-                        drive_path = $f.FullName
+-                        integration_status = "Live"
+-                        version = "1.0"
+-                        purpose = "Auto-generated"
+-                        integration_usage = "Sync"
+-                    }
+-                    $inventory += $record
+-                }
+-                $jsonPath = $action.destination
+-                $inventory | ConvertTo-Json -Depth 4 | Set-Content -Path $jsonPath -Encoding UTF8
+-                Write-Host "    Generated inventory with $($inventory.Count) entries."
+-                Add-Content $logPath "    Generated inventory with $($inventory.Count) entries."
+-            }
+-            "generate_markdown_link" {
+-                $md = "# $title`n`n[Open Document]($link)`n"
+-                $md | Out-File -FilePath $dest -Encoding utf8
+-                Write-Host "    Created markdown link file: $dest"
+-                Add-Content $logPath "    Created markdown link file: $dest"
++                Write-Host "    [DRYRUN] Would run ${type}: $src -> $dest"
+             }
+             "run" {
+-                Invoke-Expression $cmd
+-                Write-Host "    Ran command: $cmd"
+-                Add-Content $logPath "    Ran command: $cmd"
+-            }
+-            default {
+-                Write-Warning "    Unknown action type: $type"
+-                Add-Content $logPath "    Skipped unknown type: $type"
++                Write-Host "    [DRYRUN] Would run ${type}: $cmd"
+             }
+         }
++        continue
+     }
+ 
+-    foreach ($v in $step.validation) {
+-        switch ($v.condition) {
+-            "exists" {
+-                if (Test-Path $v.path) {
+-                    Write-Host "    ✅ Validated: $($v.path) exists"
+-                    Add-Content $logPath "    ✅ Validated: $($v.path) exists"
+-                } else {
+-                    Write-Warning "    ❌ Validation failed: $($v.path) missing"
+-                    Add-Content $logPath "    ❌ Validation failed: $($v.path) missing"
+-                }
++    switch ($type) {
++        "create_folder" {
++            if (-not (Test-Path -Path $dest)) {
++                New-Item -Path $dest -ItemType Directory -Force | Out-Null
+             }
+-            "file_count" {
+-                $count = (Get-ChildItem -Path $v.path -File).Count
+-                if ($count -ge $v.min_count) {
+-                    Write-Host "    ✅ $count files found in $($v.path)"
+-                    Add-Content $logPath "    ✅ $count files in $($v.path)"
+-                } else {
+-                    Write-Warning "    ❌ Only $count files in $($v.path), expected at least $($v.min_count)"
+-                    Add-Content $logPath "    ❌ Only $count files in $($v.path)"
+-                }
++        }
++        "move" {
++            if (Test-Path -Path $src) {
++                Move-Item -Path $src -Destination $dest -Force
++            } else {
++                Write-Warning "Missing source: $src"
+             }
+-            default {
+-                Write-Host "    ⚠️ Validation type '$($v.condition)' not handled explicitly."
+-                Add-Content $logPath "    ⚠️ Skipped validation type: $($v.condition)"
++        }
++        "copy" {
++            if (Test-Path -Path $src) {
++                Copy-Item -Path $src -Destination $dest -Force
++            } else {
++                Write-Warning "Missing source: $src"
++            }
++        }
++        "generate_markdown_link" {
++            $md = "[${title}](${link})"
++            $md | Out-File -FilePath $dest -Encoding utf8
++            Write-Host "    Created markdown link file: $dest"
++        }
++        "run_script" {
++            $fullScript = ".\scripts\$script"
++            if (Test-Path $fullScript) {
++                & $fullScript @args
++                Write-Host "    Ran script: $script"
++            } else {
++                Write-Warning "Script not found: $fullScript"
+             }
+         }
++        "generate_inventory" {
++            $files = Get-ChildItem -Recurse -Path $action.source_path | Select-Object FullName, Name, Length, LastWriteTime
++            $files | ConvertTo-Json -Depth 5 | Out-File -FilePath $dest -Encoding utf8
++            Write-Host "    Generated inventory with $($files.Count) entries."
++        }
++        "run" {
++            Invoke-Expression $cmd
++            Write-Host "    Ran command: $cmd"
++        }
+     }
+ }
+ 
+-Write-Host "✅ All steps processed. Log saved to organize-log.txt." -ForegroundColor Green
+-Add-Content $logPath "--- RUN END $(Get-Date -Format u) ---`n"
++# Run validations
++foreach ($v in $step.validation) {
++    $path = $v.path
++    switch ($v.condition) {
++        "exists" {
++            if (Test-Path $path) {
++                Write-Host "    ✅ Validated: $path exists"
++            } else {
++                Write-Warning "❌ Validation failed: $path missing"
++            }
++        }
++        "file_count" {
++            $count = (Get-ChildItem -File -Path $path -Recurse).Count
++            if ($count -ge $v.min_count) {
++                Write-Host "    ✅ $count files found in $path"
++            } else {
++                Write-Warning "❌ Only $count files found in $path, expected at least $($v.min_count)"
++            }
++        }
++    }
++}
++Write-Host "✅ All steps processed. Log saved to organize-log.txt."
