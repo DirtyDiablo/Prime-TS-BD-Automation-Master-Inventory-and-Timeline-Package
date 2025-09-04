@@ -1,0 +1,119 @@
+[
+  {
+    "artifact_name": "Drive_Snapshot.txt",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Drive_Snapshot.txt",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "fix-drive-structure.ps1",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\fix-drive-structure.ps1",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Competitor_Job_Board_URLs.xlsx",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Competitor_Job_Board_URLs.xlsx",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Coverage_Hubs.csv",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\Coverage_Hubs.csv",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "ScraperEngine_Config.json",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Configurations\\ScraperEngine_Config.json",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Jobs_Records_Full.xlsx",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 1 – Scraper\\Data Exports\\Jobs_Records_Full.xlsx",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Bullhorn_Contact_Extraction_Plan.docx",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Strategy Docs\\Bullhorn_Contact_Extraction_Plan.docx",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Engine_Placements_All_Final.csv",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 2 – Program Mapping\\Data (Placements)\\Engine_Placements_All_Final.csv",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "GBSD_Notebook.pdf",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\GBSD_Notebook.pdf",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "MStaff_LinkedInActivity.pdf",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 3 – Org Chart\\Program-Specific Intel\\MStaff_LinkedInActivity.pdf",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Sales_Prospecting_Playbook.pdf",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Master Playbook\\Sales_Prospecting_Playbook.pdf",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "Outreach_Scripts_Collection.docx",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 4 – Playbook\\Strategy Guides\\Outreach_Scripts_Collection.docx",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  },
+  {
+    "artifact_name": "BD_Priority_Scoring_Model.xlsx",
+    "engine": "",
+    "drive_path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Engine 5 – Scoring\\Design & Specs\\BD_Priority_Scoring_Model.xlsx",
+    "integration_status": "Live",
+    "version": "1.0",
+    "purpose": "Auto-generated",
+    "integration_usage": "Sync"
+  }
+]

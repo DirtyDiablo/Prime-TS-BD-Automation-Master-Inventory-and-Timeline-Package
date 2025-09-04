@@ -1,0 +1,340 @@
+\n--- RUN START 2025-09-03 21:36:00Z | Mode=Reset Master State | DryRun=True ---\n
+[STEP] Ensure Base Folder Structure
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    DRYRUN: create_folder  → 
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🤖 Agent Prompts exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External Templates exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Unsorted exists
+[STEP] Move Engine 1 (Scraper) Artifacts
+    DRYRUN: move G:\Competitor_Job_Board_URLs.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Configurations\Competitor_Job_Board_URLs.xlsx
+    DRYRUN: move G:\Coverage_Hubs.csv → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Configurations\Coverage_Hubs.csv
+    DRYRUN: move G:\Apify Actor Input - Fort Meade.json → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\FortMeade_Apify_Actor_Input.json
+    DRYRUN: move G:\cleared_jobs_apify_openai_airtable.json → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\Cleared_Jobs_Workflow_v1.json
+    DRYRUN: move G:\cleared_jobs_pipeline.json → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\Cleared_Jobs_Workflow_v2.json
+    DRYRUN: move G:\Building an n8n Cleared Job Postings Scraper.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\References\Building_an_n8n_Cleared_Job_Postings_Scraper.pdf
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Configurations\Competitor_Job_Board_URLs.xlsx exists
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Configurations\Coverage_Hubs.csv exists
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\FortMeade_Apify_Actor_Input.json missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\Cleared_Jobs_Workflow_v1.json missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\Cleared_Jobs_Workflow_v2.json missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\References\Building_an_n8n_Cleared_Job_Postings_Scraper.pdf missing
+    ❌ Only 0 files in H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper
+[STEP] Move Engine 2 (Program Mapping) Artifacts
+    DRYRUN: move G:\Master Program Index  Major Cleared IT_Cyber Programs (DoD_IC_Homeland) (1).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Strategy Docs\Top_20_Programs_List.pdf
+    DRYRUN: move G:\Past_Performance_Made_Easy_Lists.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Credibility Docs\Past_Performance_Made_Easy_Lists.pdf
+    DRYRUN: move G:\Prime Ngc Past Performance.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Credibility Docs\NGC_Past_Performance.pdf
+    DRYRUN: move G:\Roy, Utah (Hill AFB Area).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Competitive Intel\Roy_Utah_HillAFB.pdf
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Strategy Docs\Top_20_Programs_List.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Credibility Docs\Past_Performance_Made_Easy_Lists.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Credibility Docs\NGC_Past_Performance.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Competitive Intel\Roy_Utah_HillAFB.pdf missing
+    ❌ Only 0 files in H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping
+[STEP] Move Engine 3 (Org Chart) Artifacts
+    DRYRUN: move G:\GBSD Bd Strategy.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\GBSD_Strategy.pdf
+    DRYRUN: move G:\Clearance Overview_.docx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\Clearance_Overview.docx
+    DRYRUN: move G:\NGC Non Managers Call List.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\NGC_NonManagers_Call_List.xlsx
+    DRYRUN: move G:\GBSD_Sentinel_UT_Contacts.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\GBSD_Sentinel_UT_Contacts.xlsx
+    DRYRUN: move G:\Northrop_GBSD_Employee_List.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\Northrop_GBSD_Employee_List.xlsx
+    DRYRUN: move G:\Sentinel_GBSD_Org_Chart_Document_Key.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Strategy & Design\Sentinel_GBSD_Org_Chart_Document_Key.xlsx
+    DRYRUN: move G:\Sentinel_GBSD_Org_Chart_Template.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Strategy & Design\Sentinel_GBSD_Org_Chart_Template.xlsx
+    DRYRUN: move G:\Sentinel_GBSD_Key_Contacts_Call_Sheet_Template.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Strategy & Design\Sentinel_GBSD_Key_Contacts_Call_Sheet_Template.xlsx
+    DRYRUN: move G:\Enterprise_IT_Cybersecurity_Support_Contacts.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\Enterprise_IT_Cybersecurity_Support_Contacts.xlsx
+    DRYRUN: move G:\*LinkedIn.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\
+    DRYRUN: move G:\Profile*.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\GBSD_Strategy.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\Clearance_Overview.docx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\NGC_NonManagers_Call_List.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\GBSD_Sentinel_UT_Contacts.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Program-Specific Intel\Northrop_GBSD_Employee_List.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Strategy & Design\Sentinel_GBSD_Org_Chart_Document_Key.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Strategy & Design\Sentinel_GBSD_Org_Chart_Template.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\Strategy & Design\Sentinel_GBSD_Key_Contacts_Call_Sheet_Template.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\Enterprise_IT_Cybersecurity_Support_Contacts.xlsx missing
+    ⚠️ Skipped validation type: min_file_count
+[STEP] Move Engine 4 (Playbook) Artifacts
+    DRYRUN: move G:\Sales Prospecting Playbook.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Master Playbook\Sales_Prospecting_Playbook_v1.pdf
+    DRYRUN: move G:\Competitive Capture & Insertion Strategy for Prime Technical Services.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Strategy Guides\Competitive_Capture_Insertion_Strategy.pdf
+    DRYRUN: move G:\September 2025 BD Attack Plan  Prime Technical Services (PTS).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Agent Outputs\Sept2025_BD_Attack_Plan.pdf
+    DRYRUN: move G:\BD Action Plan (Aug 2831, 2025)_ DoD_IC Programs & Contacts (Space, MOSA, Emerging Tech).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Agent Outputs\Aug28-31_2025_BD_Action_Plan.pdf
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Master Playbook\Sales_Prospecting_Playbook_v1.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Strategy Guides\Competitive_Capture_Insertion_Strategy.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Agent Outputs\Sept2025_BD_Attack_Plan.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Agent Outputs\Aug28-31_2025_BD_Action_Plan.pdf missing
+[STEP] Move Engine 5 (Scoring) Artifacts
+    DRYRUN: move G:\BD opportunity target list (1).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring\Reference Reports\BD_Opportunity_Target_List.pdf
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring\Reference Reports\BD_Opportunity_Target_List.pdf missing
+[STEP] Move Cross-Engine & Infrastructure Artifacts
+    DRYRUN: move G:\Prime TS BD Automation – Final Project Artifacts (1).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Final_Project_Artifacts.pdf
+    DRYRUN: move G:\Step 1 – Decisions Made.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Step_1_Decisions_Made.pdf
+    DRYRUN: move G:\Step 3_ Consolidated Current State by Engine.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Step_3_Consolidated_Current_State_by_Engine.pdf
+    DRYRUN: move G:\Proposed Architecture for Prime TS BD Intelligence Automation.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Proposed_Architecture_(Archive).pdf
+    DRYRUN: move G:\Master State Google Doc.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Master_State_Document.pdf
+    DRYRUN: move G:\Prime TS BD Automation  ChatGPT & Notion Integration Playbook.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\ChatGPT-Notion_Integration_Playbook.pdf
+    DRYRUN: move G:\Master Program Index Prompt (2).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🤖 Agent Prompts\Master_Program_Index_Prompt.pdf
+    DRYRUN: move G:\Q3Q4 2025 Defense & DoD Events for Face-to-Face BD Opportunities.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets\Q3Q4_2025_Defense_Events.pdf
+    DRYRUN: move G:\Key Programs and Personnel at Late-August 2025 Defense Conferences (1).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets\Aug2025_Conf_Programs_Personnel.pdf
+    DRYRUN: move G:\PTS_BD_Master_Trackers.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets\PTS_BD_Master_Trackers.xlsx
+    DRYRUN: move G:\AI Automation Society N8n Templates  Categorization & Usage Guide.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References\AI_Automation_Society_n8n_Templates_Guide.pdf
+    DRYRUN: move G:\AI Automation Methodologies & Blueprint (Nate Herk & AI Automation Society) (1).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References\AI_Automation_Methodologies_Blueprint.pdf
+    DRYRUN: move G:\Advanced Prompt Library and Automation for PTS Master Program Index.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References\Advanced_Prompt_Library_for_Program_Index.pdf
+    DRYRUN: move G:\*.json → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External Templates\
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Final_Project_Artifacts.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Step_1_Decisions_Made.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Step_3_Consolidated_Current_State_by_Engine.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Proposed_Architecture_(Archive).pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\Master_State_Document.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🔧 Architecture & Planning\ChatGPT-Notion_Integration_Playbook.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\🤖 Agent Prompts\Master_Program_Index_Prompt.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets\Q3Q4_2025_Defense_Events.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets\Aug2025_Conf_Programs_Personnel.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📊 Trackers & Sheets\PTS_BD_Master_Trackers.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References\AI_Automation_Society_n8n_Templates_Guide.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References\AI_Automation_Methodologies_Blueprint.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\📁 External References\Advanced_Prompt_Library_for_Program_Index.pdf missing
+[STEP] Archive Legacy and Unused Artifacts
+    DRYRUN: move G:\Prime TS Knowledge Base Inventory.pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Prime TS Knowledge Base Inventory.pdf
+    DRYRUN: move G:\Consolidated Project Chat History ChatGPT - Master State Google Drive Github Project Chat History FULL.docx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_State_Project_Chat_History.docx
+    DRYRUN: move G:\Master_Inventory.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_OLD.xlsx
+    DRYRUN: move G:\Master_Inventory (1).xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_OLD_1.xlsx
+    DRYRUN: move G:\Master Inventory (JSON).pdf → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_JSON.pdf
+    DRYRUN: move G:\Master_Inventory.json → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_OLD.json
+    DRYRUN: move G:\transcript Newsletter System (8 21 2025).gdoc → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\transcript Newsletter System (8-21-2025).gdoc
+    DRYRUN: move G:\*_PERSON*.csv → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\
+    DRYRUN: move G:\tableConvert*.xlsx → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\
+    DRYRUN: move G:\chat_chunk_*.md → H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Prime TS Knowledge Base Inventory.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_State_Project_Chat_History.docx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_OLD.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_OLD_1.xlsx missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_JSON.pdf missing
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Archive\Master_Inventory_OLD.json missing
+[STEP] Generate Drive Audit
+    DRYRUN: run_script  → 
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Drive_Audit.json missing
+    ⚠️ Skipped validation type: empty_folder
+[STEP] Build Master Inventory
+    DRYRUN: generate_inventory  → C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\Master_Inventory.json
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\Master_Inventory.json exists
+[STEP] Mirror to GitHub Repository
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Configurations\Competitor_Job_Board_URLs.xlsx → C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.xlsx
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Configurations\Coverage_Hubs.csv → C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Coverage_Hubs.csv
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\FortMeade_Apify_Actor_Input.json → C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\FortMeade_Apify_Actor_Input.json
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\Cleared_Jobs_Workflow_v1.json → C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Cleared_Jobs_Workflow_v1.json
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Workflows & Scripts\Cleared_Jobs_Workflow_v2.json → C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Cleared_Jobs_Workflow_v2.json
+    ❌ Validation failed: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.xlsx missing
+    ❌ Validation failed: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Coverage_Hubs.csv missing
+    ❌ Validation failed: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\FortMeade_Apify_Actor_Input.json missing
+    ❌ Validation failed: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Cleared_Jobs_Workflow_v1.json missing
+    ❌ Validation failed: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Cleared_Jobs_Workflow_v2.json missing
+[STEP] Capture Repo Changes
+    DRYRUN: run  → 
+    ❌ Validation failed: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\MasterState_Update.patch missing
+--- RUN END 2025-09-03 21:36:02Z ---\n
+
+--- RUN START 2025-09-03 22:08:14Z | Mode=Reset Master State | DryRun=True ---
+
+[STEP] Reset Master State
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: create_folder  -> 
+    DRYRUN: move G:\Shared drives\PrimeTS Knowledge Base\📌 Competitor Job Board URLs – Cleared Staffing Firms.gdoc -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\scraper\Competitor_Job_Board_URLs.gdoc
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\scraper\Competitor_Job_Board_URLs.gdoc -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    DRYRUN: run_script  -> 
+    DRYRUN: generate_inventory  -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\inventory\Master_Inventory.json
+    DRYRUN: run  -> 
+    ❌ Validation failed: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\scraper missing
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 1 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-03 22:08:15Z ---
+
+
+--- RUN START 2025-09-03 22:24:55Z | Mode=Reset Master State | DryRun=True ---
+
+[STEP] Reset Master State
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Architecture & Planning
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Agent Prompts
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Trackers & Sheets
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\External References
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\External Templates
+    DRYRUN: move G:\Shared drives\PrimeTS Knowledge Base\📌 Competitor Job Board URLs – Cleared Staffing Firms.gdoc -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Competitor_Job_Board_URLs.gdoc
+    DRYRUN: copy H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Competitor_Job_Board_URLs.gdoc -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    DRYRUN: run_script scripts\scraper-script-audit-drive.ps1
+    DRYRUN: generate_inventory H:\My Drive\Prime TS BD Automation (BD IntelliRepo) -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\inventory\Master_Inventory.json
+    DRYRUN: run cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 1 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-03 22:24:55Z ---
+
+
+--- RUN START 2025-09-03 22:25:50Z | Mode=Reset Master State | DryRun=False ---
+
+[STEP] Reset Master State
+    Moved: G:\Shared drives\PrimeTS Knowledge Base\📌 Competitor Job Board URLs – Cleared Staffing Firms.gdoc -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Competitor_Job_Board_URLs.gdoc
+    Copied: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper\Competitor_Job_Board_URLs.gdoc -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    Ran script: scripts\scraper-script-audit-drive.ps1
+    Generated inventory with 13 entries.
+    Ran command: cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 1 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-03 22:25:51Z ---
+
+
+--- RUN START 2025-09-03 22:32:03Z | Mode=Reset Master State | DryRun=True ---
+
+[STEP] Reset Master State
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Architecture & Planning
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Agent Prompts
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Trackers & Sheets
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\External References
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\External Templates
+    DRYRUN: generate_markdown_link C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    DRYRUN: run_script scraper-script-audit-drive.ps1
+    DRYRUN: generate_inventory H:\My Drive\Prime TS BD Automation (BD IntelliRepo) -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\inventory\Master_Inventory.json
+    DRYRUN: run cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 1 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-03 22:32:03Z ---
+
+
+--- RUN START 2025-09-03 22:36:00Z | Mode=Reset Master State | DryRun=False ---
+
+[STEP] Reset Master State
+    Created markdown link file: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    Ran script: scraper-script-audit-drive.ps1
+    Generated inventory with 13 entries.
+    Ran command: cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 2 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-03 22:36:02Z ---
+
+
+--- RUN START 2025-09-03 22:47:46Z | Mode=Reset Master State | DryRun=False ---
+
+[STEP] Reset Master State
+    Created markdown link file: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    Ran script: scraper-script-audit-drive.ps1
+    Generated inventory with 13 entries.
+    Ran command: cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 2 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-03 22:47:47Z ---
+
+
+--- RUN START 2025-09-04 08:25:03Z | Mode=Reset Master State | DryRun=True ---
+
+[STEP] Reset Master State
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Architecture & Planning
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Agent Prompts
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Trackers & Sheets
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\External References
+    DRYRUN: create_folder H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\External Templates
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\Top20_Scraper_Template.xlsx -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Top20_Scraper_Template.xlsx
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\ScraperWorkflow.json -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\ScraperWorkflow.json
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\scripts\audit-drive.ps1 -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scripts\audit-drive.ps1
+    DRYRUN: move G:\Shared drives\PrimeTS Knowledge Base\Prime Ngc Past Performance.pdf -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Credibility Docs\Prime Ngc Past Performance.pdf
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\Contract_Ladder.csv -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\mapping\Contract_Ladder.csv
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\mapping-model.json -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\mapping\mapping-model.json
+    DRYRUN: move G:\Shared drives\PrimeTS Knowledge Base\Clearance Overview_.docx -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\Clearance Overview_.docx
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\org-chart-layout.json -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\orgchart\org-chart-layout.json
+    DRYRUN: move G:\Shared drives\PrimeTS Knowledge Base\Sales Prospecting Playbook.pdf -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Master Playbook\Sales Prospecting Playbook.pdf
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\playbook-agent-prompts.md -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\playbook\playbook-agent-prompts.md
+    DRYRUN: move G:\Shared drives\PrimeTS Knowledge Base\ScoringModel.xlsx -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring\Design & Specs\ScoringModel.xlsx
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\Proposed Architecture for Prime TS BD Intelligence Automation.pdf -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Architecture & Planning\Proposed Architecture for Prime TS BD Intelligence Automation.pdf
+    DRYRUN: copy G:\Shared drives\PrimeTS Knowledge Base\Master Timeline.xlsx -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\inventory\Master_Timeline.xlsx
+    DRYRUN: generate_markdown_link C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    DRYRUN: run_script scraper-script-audit-drive.ps1
+    DRYRUN: generate_inventory H:\My Drive\Prime TS BD Automation (BD IntelliRepo) -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\inventory\Master_Inventory.json
+    DRYRUN: run cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 2 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-04 08:25:03Z ---
+
+
+--- RUN START 2025-09-04 08:52:38Z | Mode=Reset Master State | DryRun=False ---
+
+[STEP] Reset Master State
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\Top20_Scraper_Template.xlsx -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Top20_Scraper_Template.xlsx
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\ScraperWorkflow.json -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\ScraperWorkflow.json
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\scripts\audit-drive.ps1 -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scripts\audit-drive.ps1
+    Moved: G:\Shared drives\PrimeTS Knowledge Base\Prime Ngc Past Performance.pdf -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 2 – Program Mapping\Credibility Docs\Prime Ngc Past Performance.pdf
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\Contract_Ladder.csv -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\mapping\Contract_Ladder.csv
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\mapping-model.json -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\mapping\mapping-model.json
+    Moved: G:\Shared drives\PrimeTS Knowledge Base\Clearance Overview_.docx -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 3 – Org Chart\References\Clearance Overview_.docx
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\org-chart-layout.json -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\orgchart\org-chart-layout.json
+    Moved: G:\Shared drives\PrimeTS Knowledge Base\Sales Prospecting Playbook.pdf -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 4 – Playbook\Master Playbook\Sales Prospecting Playbook.pdf
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\playbook-agent-prompts.md -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\playbook\playbook-agent-prompts.md
+    Moved: G:\Shared drives\PrimeTS Knowledge Base\ScoringModel.xlsx -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 5 – Scoring\Design & Specs\ScoringModel.xlsx
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\Proposed Architecture for Prime TS BD Intelligence Automation.pdf -> H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Architecture & Planning\Proposed Architecture for Prime TS BD Intelligence Automation.pdf
+    Copied: G:\Shared drives\PrimeTS Knowledge Base\Master Timeline.xlsx -> C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\inventory\Master_Timeline.xlsx
+    Created markdown link file: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper\Competitor_Job_Board_URLs.md
+    Ran script: scraper-script-audit-drive.ps1
+    Generated inventory with 13 entries.
+    Ran command: cd C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package && git diff > MasterState_Update.patch
+    ✅ Validated: H:\My Drive\Prime TS BD Automation (BD IntelliRepo)\Engine 1 – Scraper exists
+    ✅ Validated: C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper exists
+    ✅ 2 files in C:\Prime-TS-BD-Automation-Master-Inventory-and-Timeline-Package\scraper
+--- RUN END 2025-09-04 08:52:39Z ---
+

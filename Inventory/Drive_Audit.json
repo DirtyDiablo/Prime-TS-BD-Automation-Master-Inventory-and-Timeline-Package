@@ -1,39 +1,15 @@
 [
   {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\⚙️ Architecture & Planning",
+    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Agent Prompts",
     "Type": "Folder",
     "SizeKB": 0,
-    "LastModified": "2025-08-29T10:55:56.47-04:00"
+    "LastModified": "2025-09-03T21:51:12.994-04:00"
   },
   {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External References",
+    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning",
     "Type": "Folder",
     "SizeKB": 0,
-    "LastModified": "2025-08-29T10:55:57.851-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External Templates",
-    "Type": "Folder",
-    "SizeKB": 0,
-    "LastModified": "2025-08-29T10:55:58.328-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📊 Trackers & Sheets",
-    "Type": "Folder",
-    "SizeKB": 0,
-    "LastModified": "2025-08-29T10:55:57.429-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🔧 Architecture & Planning",
-    "Type": "Folder",
-    "SizeKB": 0,
-    "LastModified": "2025-09-02T09:59:52.752-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🤖 Agent Prompts",
-    "Type": "Folder",
-    "SizeKB": 0,
-    "LastModified": "2025-08-29T10:55:56.976-04:00"
+    "LastModified": "2025-09-03T21:49:16.244-04:00"
   },
   {
     "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Archive",
@@ -106,6 +82,12 @@
     "Type": "File",
     "SizeKB": 0.24,
     "LastModified": "2025-09-02T16:34:47.9807398-04:00"
+  },
+  {
+    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Drive_Snapshot.txt",
+    "Type": "File",
+    "SizeKB": 1.68,
+    "LastModified": "2025-09-03T17:02:45.89-04:00"
   },
   {
     "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\fix-drive-structure.ps1",
@@ -498,49 +480,19 @@
     "LastModified": "2025-09-02T16:34:47.9807398-04:00"
   },
   {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\⚙️ Architecture & Planning\\desktop.ini",
+    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Agent Prompts\\desktop.ini",
     "Type": "File",
     "SizeKB": 0.24,
     "LastModified": "2025-09-02T16:34:47.9807398-04:00"
   },
   {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🤖 Agent Prompts\\desktop.ini",
-    "Type": "File",
-    "SizeKB": 0.24,
-    "LastModified": "2025-09-02T16:34:47.9807398-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📊 Trackers & Sheets\\desktop.ini",
-    "Type": "File",
-    "SizeKB": 0.24,
-    "LastModified": "2025-09-02T16:34:47.9807398-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External References\\desktop.ini",
-    "Type": "File",
-    "SizeKB": 0.24,
-    "LastModified": "2025-09-02T16:34:47.9807398-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\📁 External Templates\\desktop.ini",
-    "Type": "File",
-    "SizeKB": 0.24,
-    "LastModified": "2025-09-02T16:34:47.9807398-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\🔧 Architecture & Planning\\desktop.ini",
+    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Architecture & Planning\\desktop.ini",
     "Type": "File",
     "SizeKB": 0.24,
     "LastModified": "2025-09-02T16:34:47.9807398-04:00"
   },
   {
     "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\Trackers & Sheets\\desktop.ini",
-    "Type": "File",
-    "SizeKB": 0.24,
-    "LastModified": "2025-09-02T16:34:47.9807398-04:00"
-  },
-  {
-    "Path": "H:\\My Drive\\Prime TS BD Automation (BD IntelliRepo)\\External References\\desktop.ini",
     "Type": "File",
     "SizeKB": 0.24,
     "LastModified": "2025-09-02T16:34:47.9807398-04:00"

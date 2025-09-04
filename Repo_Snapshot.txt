@@ -1,0 +1,39 @@
+Folder PATH listing
+Volume serial number is 7266-1CA4
+C:.
+¦   audit-drive.log
+¦   codex-task.patch
+¦   codex-task.patch.txt
+¦   fix-drive-structure.ps1
+¦   Master_Inventory.json
+¦   Master_Inventory.xlsx
+¦   organize-log.txt
+¦   Prime TS BD Automation – Final Project Artifacts (1).pdf
+¦   README.md
+¦   Repo_Snapshot.txt
+¦   WORKFLOW_GUIDE.md
+¦   
++---archive
+¦       readme
+¦       
++---docs
+¦       Prime TS BD Automation – Final Project Artifacts (1).pdf
+¦       readme
+¦       
++---Inventory
+¦       Drive_Audit.json
+¦       Drive_Audit.xlsx
+¦       Readme
+¦       
++---mapping
++---orgchart
++---playbook
++---scoring
++---scraper
+¦       scraper__drive-audit.json
+¦       
++---Scripts
+        fix-drive-structure.ps1
+        organize-artifacts.ps1
+        scraper-script-audit-drive.ps1
+        
